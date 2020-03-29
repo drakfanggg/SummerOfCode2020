@@ -14,7 +14,7 @@ We still don't know how many slots we will get yet. But students are already fre
 
 ![congrats](congrats.png)
 
-## For students:
+## How we select students:
 
 The student will be more likely selected if he/she:
 
@@ -24,6 +24,15 @@ The student will be more likely selected if he/she:
 4. Provide a personal website and descriptions for previous work/projects.
 5. Provide demo sites for the previous projects if possible.
 6. Provide a resume/CV.
+
+## Get started
+
+1. Choose an idea from our list: https://github.com/casbin/SummerOfCode2020
+2. Send your resume/CV in PDF to: admin@casbin.org
+3. Do a self-introduction in: https://gitter.im/casbin/gsoc
+4. Get familiar with the existing code, try to solve opened issues for your chosen idea's repo before & after application deadline.
+5. If you have questions, you can ask the mentor of the idea via GitHub or Gitter.
+6. Submit your proposal in [GSoC official site](https://summerofcode.withgoogle.com/). The deadline is April 1st, 2020.
 
 ## Ideas
 

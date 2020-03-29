@@ -71,6 +71,11 @@ The current progress is: https://github.com/casbin/casbin-cpp
 1. C/C++
 2. Golang (only need to read code)
 
+#### Mentor
+
+[Joey Xie](https://github.com/xcaptain), Casbin member, [Yang Luo](https://github.com/hsluoyz), Casbin founder
+
+
 ### Casbin Core Engine (Golang)
 
 #### Description
@@ -92,7 +97,7 @@ Some issues to work on:
 
 #### Mentor
 
-[Yang Luo](https://github.com/hsluoyz), Casbin founder
+[Chu Man Lok](https://github.com/ManLOK-Chu), Casbin member, [Wenxi Cheng](https://github.com/chengwenxi), Casbin member
 
 ### Casbin for Java
 
@@ -111,7 +116,7 @@ Some issues to work on: https://github.com/casbin/jcasbin/issues
 
 #### Mentor
 
-[Yang Luo](https://github.com/hsluoyz), Casbin founder
+[Zhengjin Fang](https://github.com/fangzhengjin), Casbin member, [Yang Luo](https://github.com/hsluoyz), Casbin founder
 
 ### Casbin.js
 
@@ -136,7 +141,7 @@ The current progress is: https://github.com/casbin/casbin.js
 
 #### Mentor
 
-[Caleb Faruki](https://github.com/calebfaruki), Casbin member
+[Yang Luo](https://github.com/hsluoyz), Casbin founder, [Caleb Faruki](https://github.com/calebfaruki), Casbin member
 
 ### Casbin Dashboard
 
@@ -160,7 +165,7 @@ The current progress is: https://dashboard.casbin.org/. Source code: https://git
 
 #### Mentor
 
-[Yang Luo](https://github.com/hsluoyz), Casbin founder
+[BetaCat0](https://github.com/BetaCat0), Casbin member, [Yang Luo](https://github.com/hsluoyz), Casbin founder
 
 ### Node-Casbin
 
@@ -178,7 +183,7 @@ tracking issues to work on: https://github.com/casbin/node-casbin/issues
 
 #### Mentor
 
-[Yang Luo](https://github.com/hsluoyz), Casbin founder
+[chalince](https://github.com/chalince), Casbin member, [shblhy](https://github.com/shblhy), Casbin member
 
 ### Casbin for PHP 
 
@@ -253,7 +258,8 @@ Easy medium
 
 #### Mentor
 
-[Cheng JIANG](https://github.com/GopherJ), casbin member
+[Cheng JIANG](https://github.com/GopherJ), casbin member, [Joey Xie](https://github.com/xcaptain), Casbin member
+
 
 ### Casbin for Python
 
@@ -272,4 +278,4 @@ Some issues to work on: https://github.com/casbin/pycasbin/issues
 
 #### Mentor
 
-[techoner](https://github.com/techoner), Casbin member
+[techoner](https://github.com/techoner), Casbin member, [shblhy](https://github.com/shblhy), Casbin member
